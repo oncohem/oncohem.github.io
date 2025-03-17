@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.302628ee.css",
-    "main.js": "/static/js/main.fb3b8784.js",
+    "main.css": "/static/css/main.e7166c1c.css",
+    "main.js": "/static/js/main.c4f5d71e.js",
     "static/media/doctors-banner.jpg": "/static/media/doctors-banner.4cbdf725b3c679f171a2.jpg",
     "static/media/aoc_logo_bw.png": "/static/media/aoc_logo_bw.21bdf78870a00711aad0.png",
     "index.html": "/index.html",
-    "main.302628ee.css.map": "/static/css/main.302628ee.css.map",
-    "main.fb3b8784.js.map": "/static/js/main.fb3b8784.js.map"
+    "main.e7166c1c.css.map": "/static/css/main.e7166c1c.css.map",
+    "main.c4f5d71e.js.map": "/static/js/main.c4f5d71e.js.map"
   },
   "entrypoints": [
-    "static/css/main.302628ee.css",
-    "static/js/main.fb3b8784.js"
+    "static/css/main.e7166c1c.css",
+    "static/js/main.c4f5d71e.js"
   ]
 }
